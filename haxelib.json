@@ -1,0 +1,12 @@
+{
+  "name": "heat_event",
+  "description": "An implementation of signals/slots (observer pattern).",
+  "url" : "https://github.com/mrrogge/heat_event",
+  "license": "MIT",
+  "tags": [],
+  "version": "0.1.1",
+  "releasenote": "",
+  "contributors": ["mrrogge"],
+  "dependencies": {},
+  "classPath": "src"
+}
